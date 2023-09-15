@@ -1,0 +1,11 @@
+.fabric/
+logs/
+resourcepacks/
+saves/
+screenshots/
+server-resource-packs/
+shaderpacks/
+texturepacks/
+icon.png
+options.txt
+realms_persistence.json
