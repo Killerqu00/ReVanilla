@@ -1,0 +1,13 @@
+hash-format = "sha256"
+
+[[files]]
+file = ".fabric/remappedJars/minecraft-1.20.1-0.14.22/client-intermediary.jar"
+hash = "357499a9bf7ac3ee49affa7c1437683c9044837cd0757bd1acef5beca3e4c94e"
+
+[[files]]
+file = "README.md"
+hash = "7c33a00c03dae7c3eecaeb67915de56bfa7293f17b8735bc4f160ad907aa29eb"
+
+[[files]]
+file = "icon.png"
+hash = "4e26a3269950d8a9fc1db257c40fcb96148c13fc775bee9e3be776e9be553bd9"

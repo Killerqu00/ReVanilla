@@ -1,0 +1,13 @@
+name = "Re: Vanilla"
+author = "Killerqu00"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "320e41537da2202131fa6c1e75e0d6b8c6ec64242add0033cf52372585df37c6"
+
+[versions]
+fabric = "0.14.22"
+minecraft = "1.20.1"
